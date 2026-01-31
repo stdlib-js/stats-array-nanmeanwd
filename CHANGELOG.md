@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-06-30)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`e97f5eb`](https://github.com/stdlib-js/stdlib/commit/e97f5ebcadbf66ed57e815ddb6fe900720711816) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`7f76a94`](https://github.com/stdlib-js/stdlib/commit/7f76a94c2c2f7af1b97bafe11938ea630c8dbdc5) - **chore:** remove keywords _(by Athan Reines)_
 -   [`ca7d8db`](https://github.com/stdlib-js/stdlib/commit/ca7d8db0c967ca8d63def4aa1470fa0d9510988e) - **feat:** add `stats/array/nanmeanwd` [(#7389)](https://github.com/stdlib-js/stdlib/pull/7389) _(by Gururaj Gurram, stdlib-bot)_
